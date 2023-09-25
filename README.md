@@ -1,2 +1,2 @@
 # backend-golang
-Backend Besmart
+Backend human resource information system
